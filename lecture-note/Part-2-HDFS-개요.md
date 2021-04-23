@@ -33,7 +33,7 @@
     - 네임스페이서의 이미지의 복제본을 보관하는 역할
     - 1 시간 정도의 시간차를 두고 보조 네임노드로 복제되기에 어느 정도의 데이터 손실은 불가피하다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff03922f-906c-48f1-882d-e590f0557ef4/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff03922f-906c-48f1-882d-e590f0557ef4/Untitled.png)
+![HDFS-Process](image/hdfs-process.png)
 
 ## 데이터 쓰는 프로세스
 
